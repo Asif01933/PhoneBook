@@ -1,16 +1,11 @@
-# myproject
+# Phone Book
 
-A new Flutter project.
+This is a flutter project where user can add, delete, update and store contact number.
 
-## Getting Started
+## Snap Shot
 
-This project is a starting point for a Flutter application.
+![Screenshot_20221202-112007_Contacts](https://user-images.githubusercontent.com/38862469/205223312-3e472d4c-bd37-4e51-9814-bf9b5e801a41.jpg)
+![Screenshot_20221202-111953](https://user-images.githubusercontent.com/38862469/205223320-d0a5632d-a4cb-4dda-bfa3-c418dd7aa6a9.jpg)
+![Screenshot_20221202-113717_Contacts](https://user-images.githubusercontent.com/38862469/205223328-053c4fb3-0d4c-4151-82f7-a60318ebe114.jpg)
+![Screenshot_20221202-112050](https://user-images.githubusercontent.com/38862469/205223331-da1c285e-981a-433c-b173-3f57a86e3ba8.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
